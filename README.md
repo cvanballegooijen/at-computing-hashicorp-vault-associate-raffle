@@ -1,1 +1,2 @@
-# at-computing-raffle
+# AT Computing Innovation Day - HashiCorp Raffle
+
