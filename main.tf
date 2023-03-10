@@ -1,6 +1,6 @@
 resource "random_integer" "user_id" {
   min = 1
-  max = 100
+  max = 35
   keepers = {
     test_value = timestamp()
   }
